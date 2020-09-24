@@ -14,6 +14,6 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 
 ### 1. 关于安装启动盘
 
-启动盘不建议直接在windows上用rufus创建（我装了两次都安装不了）。可以的话直接用ubuntu自带的`startup disk creator`在usb上创建安装。具体的过程略。
+启动盘不建议直接在windows上用rufus创建（我装了两次都安装不了）。可以的话直接用ubuntu自带的**`startup disk creator`**在usb上创建安装。具体的过程略。
 
 ### 2. 关于vim的设置
