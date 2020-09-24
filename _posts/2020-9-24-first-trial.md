@@ -2,7 +2,7 @@
 layout: post
 title: First Commit
 date: 2020-09-24
-Author: 中文作者才显示吗
+author: zaracs
 tags: [none]
 toc: true #是否显示目录
 pinned: true #文章是否置顶

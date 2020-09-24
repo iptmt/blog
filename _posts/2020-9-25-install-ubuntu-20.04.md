@@ -2,7 +2,7 @@
 layout: post
 title: 关于安装ubuntu20.04 LTS，以及后续软件
 date: 2020-09-24
-Author: zaracs
+author: zaracs
 tags: [装机]
 toc: true #是否显示目录
 pinned: false #文章是否置顶
