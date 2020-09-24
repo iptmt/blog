@@ -2,8 +2,10 @@
 layout: post
 title: First Commit
 date: 2020-09-24
-Author: zaracs
+Author: 中文作者才显示吗
 tags: [none]
+toc: true #是否显示目录
+pinned: false #文章是否置顶
 comments: true
 --- 
 # 一级标题：这是第一次提交任务，仅仅用于测试`markdown`的各种语法
