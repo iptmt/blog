@@ -79,7 +79,7 @@ disqus: #shortname
 gitalk:
   clientID: 2436665a46f676c5e916
   clientSecret: d79b95be8b35cf57d8cceded6979dd484ec80bc2
-  repo: https://github.com/iptmt/blog
+  repo: https://iptmt.github.io/blog
   owner: iptmt
 
 # 输入Google Analytics web tracking code
