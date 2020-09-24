@@ -3,8 +3,7 @@ layout: post
 title: First Commit
 date: 2020-09-24
 Author: zaracs
-categories: 
-tags: []
+tags: [none]
 comments: true
 --- 
 
