@@ -41,9 +41,9 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 ### 6. 安装terminator & zsh
 
 - `sudo apt install terminator`
-
 - `sudo apt install zsh`
-- 安装oh-my-zsh，链接<https://github.com/ohmyzsh/ohmyzsh> 选择喜欢的主题
+- 安装oh-my-zsh，链接<https://github.com/ohmyzsh/ohmyzsh> 选择喜欢的主题(我用的[zeta](https://github.com/skylerlee/zeta-zsh-theme/blob/master/zeta.zsh-theme))
+- plugins: [syntax-highlight](https://github.com/zsh-users/zsh-syntax-highlighting), [auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ### 7. 安装anaconda
 
