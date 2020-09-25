@@ -3,7 +3,7 @@ layout: post
 title: 关于安装ubuntu20.04 LTS，以及后续软件
 date: 2020-09-24
 author: zaracs
-tags: [装机]
+tags: [OS]
 toc: true #是否显示目录
 pinned: false #文章是否置顶
 comments: true
@@ -56,7 +56,7 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 
 - 参考链接：<https://github.com/jiangxufeng/v2rayL>
 - 添加vmess URL
-- 系统设置全局代理，主要在http和socks5
+- 系统设置全局代理，主要在http和socks5，如下图：![proxy setting](../images/ubuntu-install/proxy_set.png)
 - 接下来就可以愉快的同步google账户的内容了
 
 ### 9. 安装cuda和cudnn
@@ -70,7 +70,7 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 
 ### 10. 安装vscode (optional)
 
-- 商店里就有
+- 商店里安装
 - repos: python, vim, gitlen, todo-highlight, vscode-icons, latex
 
 ### 11. 安装SnowFlake
