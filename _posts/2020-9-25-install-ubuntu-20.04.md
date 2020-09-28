@@ -1,3 +1,4 @@
+---
 layout: post
 title: 关于安装ubuntu20.04 LTS，以及后续软件
 date: 2020-09-24
@@ -6,6 +7,7 @@ tags: [OS]
 toc: true #是否显示目录
 pinned: false #文章是否置顶
 comments: true
+---
 
 Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过程以及其中碰到的坑
 
