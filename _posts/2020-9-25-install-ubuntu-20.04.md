@@ -1,4 +1,3 @@
----
 layout: post
 title: 关于安装ubuntu20.04 LTS，以及后续软件
 date: 2020-09-24
@@ -7,8 +6,6 @@ tags: [OS]
 toc: true #是否显示目录
 pinned: false #文章是否置顶
 comments: true
-
----
 
 Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过程以及其中碰到的坑
 
@@ -43,7 +40,7 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 - `sudo apt install terminator`
 - `sudo apt install zsh`
 - 安装oh-my-zsh，链接<https://github.com/ohmyzsh/ohmyzsh> 选择喜欢的主题(我用的[zeta](https://github.com/skylerlee/zeta-zsh-theme/blob/master/zeta.zsh-theme))
-- plugins: [syntax-highlight](https://github.com/zsh-users/zsh-syntax-highlighting), [auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- plugins: [syntax-highlight](https://github.com/zsh-users/zsh-syntax-highlighting), [auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions), [k](https://github.com/supercrabtree/k)
 
 ### 7. 安装anaconda
 
@@ -76,3 +73,25 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 ### 11. 安装SnowFlake
 
 - 商店里安装，同时解决ssh和scp的问题，不要太好用
+
+### 12. 安装Textlive (optional)
+
+- 下载：<https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/>
+- mount & install & set PATH
+
+---
+
+## Extensions
+
+- ```bash
+  sudo apt install gnome-tweak-tool
+  sudo apt install gnome-shell-extensions
+  sudo apt install chrome-gnome-shell
+  ```
+
+- 在[extension](https://extensions.gnome.org/)上添加chrome扩展，然后就可以直接安装了，so easy。如下图，右上角点击让`off`->`on`即可
+
+![](../images/ubuntu-install/extension_clip.png)
+
+- 个人添加的插件有：users themes, clipboard indicator, dash to dock, openweather, 
+
