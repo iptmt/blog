@@ -80,6 +80,9 @@ Ubuntu又又又崩溃了，得重装。这次的post主要记录一下安装过�
 
 - 下载：<https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/>
 - mount & install & set PATH
+### 13. 其他
+
+- wps, googlepinyin, steam, simplenote, stacer
 
 ---
 
